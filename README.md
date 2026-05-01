@@ -16,28 +16,17 @@
 
 *Turning raw data into decisions — building intelligent backends, fraud-detection pipelines, and AI-powered systems that actually ship.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-atharvasrivastavaa-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/atharvasrivastavaa)
-[![GitHub](https://img.shields.io/badge/GitHub-AtharvaSri019-181717?style=flat-square&logo=github)](https://github.com/AtharvaSri019)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Atharvaaa1881-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Atharvaaa1881)
-[![Email](https://img.shields.io/badge/Email-sriatharva18@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sriatharva18@gmail.com)
-
 </div>
 
 ---
 
 ## 👤 About Me
 
-```python
-atharva = {
-    "role"       : "Data & Operations Analyst @ TravelPlus",
-    "education"  : "B.Tech CS · Dronacharya Group of Institutions (2025)",
-    "focus"      : ["Backend Data Systems", "ML Pipelines", "RAG Architectures"],
-    "currently"  : "Automating financial reconciliation & building fraud detection systems",
-    "fun_fact"   : "I make SQL queries embarrassingly fast 🚀"
-}
-```
-
-I'm a data engineer and ML practitioner who loves building systems that are reliable, explainable, and fast. From reconciling 1,000+ payment transactions to detecting fraud across 100k+ records — I obsess over the details that matter at scale.
+- 📍 Data & Operations Analyst @ **TravelPlus**, Gurugram
+- 🎓 B.Tech in Computer Science · Dronacharya Group of Institutions (2025)
+- 🔍 Focused on **ML pipelines**, **backend data systems**, and **RAG architectures**
+- 🛠️ Currently automating financial reconciliation & building anomaly detection systems
+- ⚡ I'm a data analyst and ML practitioner who obsesses over the details that matter at scale
 
 ---
 
@@ -82,34 +71,11 @@ I'm a data engineer and ML practitioner who loves building systems that are reli
 
 ## 🔨 What I Build
 
-### 🔍 [JobFit](https://github.com/AtharvaSri019) — AI Resume Matcher
-> *Python · LangChain · MongoDB · Scikit-Learn · React.js*
-
-Built a backend system integrating LangChain RAG techniques with MongoDB to match resumes to job descriptions intelligently.
-- **30% improvement** in automated matching accuracy via advanced RAG chaining
-- **40% faster** document retrieval through optimized MongoDB indexing & aggregation pipelines
-- Provides actionable career insights powered by LLM analysis
-
----
-
-### 🛡️ [Fintech Fraud & Risk Analytics Pipeline](https://github.com/AtharvaSri019) — Anomaly Detection System
-> *SQL · Python · XGBoost · Isolation Forest · Streamlit*
-
-Production-grade fraud detection pipeline with AML alignment across 100k+ transactions.
-- **94% fraudulent pattern detection** using XGBoost + Isolation Forest ensemble
-- **99.9% data integrity** maintained across the SQL data warehouse
-- **20% fewer false-positive alerts** via refined feature engineering on high-frequency transactions
-- Real-time Streamlit risk monitoring dashboard for ops visibility
-
----
-
-### ❤️ [VitalPulse](https://github.com/AtharvaSri019) — Heart Disease Detection via PPG
-> *Python · TensorFlow · CNN · HRV Analysis*
-
-Hybrid CNN-MLP model analyzing PPG signals for early heart disease detection with clinical-grade accuracy.
-- High AUC-ROC score using Stratified K-Fold cross-validation
-- Enhanced signal-to-noise ratio through HRV feature engineering
-- Improved model explainability for medical insight generation
+- 🔍 **AI-powered resume matchers** using LangChain RAG + MongoDB — improving job-fit accuracy by 30% with optimized retrieval pipelines
+- 🛡️ **Fraud & risk detection systems** that flag 94% of anomalous patterns across 100k+ transactions using XGBoost & Isolation Forest
+- ❤️ **Medical ML models** — CNN-MLP hybrids on PPG signals for early heart disease detection with high AUC-ROC via stratified cross-validation
+- 📊 **Real-time analytics dashboards** in Power BI & Streamlit that accelerate executive decision-making and surface actionable business insights
+- ⚙️ **Automated financial reconciliation pipelines** in Python/SQL that saved 10+ hrs/week and reduced payment discrepancies by 15%
 
 ---
 
@@ -134,22 +100,9 @@ Hybrid CNN-MLP model analyzing PPG signals for early heart disease detection wit
 
 ---
 
-## 🏅 Certifications
-
-| Certification | Issuer |
-|---|---|
-| Microsoft Certified: Data Analyst Professional | Microsoft |
-| AWS Certified Machine Learning – Specialty | Amazon Web Services |
-| LangChain & Vector Databases in Production | Activeloop |
-| Python Essentials 2 | Cisco Networking Academy |
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
-
-I'm always open to discussing data engineering problems, ML paper implementations, or open source collaboration.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvasrivastavaa)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriatharva18@gmail.com)
@@ -162,6 +115,6 @@ I'm always open to discussing data engineering problems, ML paper implementation
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AtharvaSri019&color=58a6ff&style=flat-square&label=Profile+Views" alt="profile views" />
-  
+
   *"Data is not just numbers — it's the story your system is trying to tell you."*
 </div>
